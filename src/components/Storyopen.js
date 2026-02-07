@@ -9,7 +9,7 @@ function Storyopen()
                 <div className="close">X</div>
 
 
-                <img id="storyimg" aly="post"/>
+                <img id="storyimg" alt="post"/>
 
            
                 <div className="storycmnt">
